@@ -9,5 +9,5 @@
 
   
   
-<h3 align="left">Support:</h3>
+<h2 align="left">Support:</h2>
 <p><a href="https://ko-fi.com/nawagiri"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="nawagiri" /></a></p><br><br>
